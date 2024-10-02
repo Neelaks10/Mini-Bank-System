@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "udZmSNrdZk/a4Jw0lWqa8dzhj6xlrnW8+gppzX+QI37CjD2PbT6//faXyS/9t/TYOt000Tzu81oKKJuCMTbaJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GHLSRCH\\source\\repos\\Baningwithmysql\\Baningwithmysql\\Baningwithmysql.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GHLSRCH\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",
+    "C:\\Users\\GHLSRCH\\.nuget\\packages\\k4os.compression.lz4\\1.2.6\\k4os.compression.lz4.1.2.6.nupkg.sha512",
+    "C:\\Users\\GHLSRCH\\.nuget\\packages\\k4os.compression.lz4.streams\\1.2.6\\k4os.compression.lz4.streams.1.2.6.nupkg.sha512",
+    "C:\\Users\\GHLSRCH\\.nuget\\packages\\k4os.hash.xxhash\\1.0.6\\k4os.hash.xxhash.1.0.6.nupkg.sha512",
+    "C:\\Users\\GHLSRCH\\.nuget\\packages\\mysql.data\\8.0.32\\mysql.data.8.0.32.nupkg.sha512",
+    "C:\\Users\\GHLSRCH\\.nuget\\packages\\mysqlconnector\\2.2.5\\mysqlconnector.2.2.5.nupkg.sha512",
+    "C:\\Users\\GHLSRCH\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512",
+    "C:\\Users\\GHLSRCH\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\GHLSRCH\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\GHLSRCH\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\GHLSRCH\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\GHLSRCH\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\GHLSRCH\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
